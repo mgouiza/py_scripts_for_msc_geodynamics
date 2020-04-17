@@ -1,4 +1,3 @@
-numpy
-sys
+numpy==1.18.*
 pybacktrack
-matplotlib
+matplotlib==3.*
