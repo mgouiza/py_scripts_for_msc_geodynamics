@@ -1,8 +1,4 @@
-name: soee5752
-channels:
-  - conda-forge
-dependencies:
-  - numpy
-  - sys
-  - pybacktrack
-  - matplotlib
+numpy
+sys
+pybacktrack
+matplotlib
